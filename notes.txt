@@ -1,0 +1,44 @@
+1. countplot and bar chart
+	-->count of ['ShipMode','Segment', 'City', 'State','Region','Category', 'SubCategory']
+
+2. count plot
+	--> COUNT OF SUB-CATEGORY
+
+3. Barh plot
+	--> SALES AND PROFIT ANALYSIS
+		--> Total Discounted Sales Per Segment
+		--> Total Profit Per Segment
+
+4. bar plot
+	--> Best Selling Sub-Category
+	--> Most profitable Sub-Category
+
+5. count plot 
+	--> BEST PERFORMING CATEGORY
+
+
+6. pie chart 
+	--> BEST PERFORMING PRODUCT
+
+7. plot
+	--> MONTHLY AND YEARLY ANALYSIS
+
+8. barplot 
+	--> WHICH CUSTOMER SEGMENT IS THE MOST PROFITABLE?
+
+
+9. stacked barchart 
+	--> WHICH IS THE PREFERRED SHIP MODE?
+
+10. pie chart
+	--> WHICH IS THE PREFERRED SHIP MODE?
+
+
+
+
+
+
+
+
+
+
