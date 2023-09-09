@@ -17,6 +17,14 @@ The main objectives of this project are as follows:
 • <b>Insights and Recommendations:</b> Based on our analysis, we will draw insights and provide recommendations for improving business strategies.
 
 
+### Requirements:
+
+- Python 3.7 or higher
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+- NumPy
 
 
 
