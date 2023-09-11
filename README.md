@@ -26,7 +26,8 @@ The main objectives of this project are as follows:
 - Seaborn
 - NumPy
 
-### Table of Contents:- <b><u>Exploratory Data Analysis</u></b>
+### Table of Contents:
+- <b><u>Exploratory Data Analysis</u></b>
 - <b><u>Count of Sub-Category</u></b>
 - <b><u>Sales and Profit Analysis</u></b>
 - <b><u>Best Performing Category</u></b>
