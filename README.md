@@ -26,15 +26,14 @@ The main objectives of this project are as follows:
 - Seaborn
 - NumPy
 
-### Table of Contents:
-- <b><u><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></u></b>
-- <b><u><a href="#count-of-sub-category">Count of Sub-Category</a></u></b>
-- <b><u><a href="#sales-and-profit-analysis">Sales and Profit Analysis</a></u></b>
-- <b><u><a href="#best-performing-category">Best Performing Category</a></u></b>
-- <b><u><a href="#best-performing-product">Best Performing Product</a></u></b>
-- <b><u><a href="#customer-segment-profitability">Customer Segment Profitability</a></u></b>
-- <b><u><a href="#preferred-ship-mode">Preferred Ship Mode</a></u></b>
-- <b><u><a href="#customer-regional-analysis">Customer Regional Analysis</a></u></b>
+### Table of Contents:- <b><u>Exploratory Data Analysis</u></b>
+- <b><u>Count of Sub-Category</u></b>
+- <b><u>Sales and Profit Analysis</u></b>
+- <b><u>Best Performing Category</u></b>
+- <b><u>Best Performing Product</u></b>
+- <b><u>Customer Segment Profitability</u></b>
+- <b><u>Preferred Ship Mode</u></b>
+- <b><u>Customer Regional Analysis</u></b>
 
 
 
