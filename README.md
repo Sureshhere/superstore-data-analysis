@@ -27,6 +27,10 @@ The main objectives of this project are as follows:
 - NumPy
 
 ### Table of Contents:
+- <b><u><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></u></b>
+- <b><u><a href="#count-of-sub-category">Count of Sub-Category</a></u></b>
+- <b><u><a href="#sales-and-profit-analysis">Sales and Profit Analysis</a></u></b>
+- <b><u><a href="#best-performing-category">Best Performing Category</a></u></b>
 
 
 
