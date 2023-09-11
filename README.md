@@ -31,6 +31,10 @@ The main objectives of this project are as follows:
 - <b><u><a href="#count-of-sub-category">Count of Sub-Category</a></u></b>
 - <b><u><a href="#sales-and-profit-analysis">Sales and Profit Analysis</a></u></b>
 - <b><u><a href="#best-performing-category">Best Performing Category</a></u></b>
+- <b><u><a href="#best-performing-product">Best Performing Product</a></u></b>
+- <b><u><a href="#customer-segment-profitability">Customer Segment Profitability</a></u></b>
+- <b><u><a href="#preferred-ship-mode">Preferred Ship Mode</a></u></b>
+- <b><u><a href="#customer-regional-analysis">Customer Regional Analysis</a></u></b>
 
 
 
