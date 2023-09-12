@@ -20,7 +20,7 @@ The main objectives of this project are as follows:
 ### Requirements:
 
 - Python 3.7 or higher
-- Jupyter Notebook
+- Jupyter Notebook / Google Colab
 - Pandas
 - Matplotlib
 - Seaborn
